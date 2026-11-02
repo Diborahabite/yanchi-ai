@@ -1,0 +1,24 @@
+{
+  "short_name": "Calculator",
+  "name": "Calculator - Standard Utility",
+  "description": "Standard Calculator Utility & Confidential Sanctuary",
+  "icons": [
+    {
+      "src": "/calc-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "64x64",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#1C1C1E",
+  "theme_color": "#1C1C1E",
+  "display": "standalone",
+  "orientation": "portrait"
+}

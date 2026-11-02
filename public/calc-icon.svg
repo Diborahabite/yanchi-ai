@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#1C1C1E"/>
+  <rect x="64" y="64" width="384" height="100" rx="20" fill="#2C2C2E"/>
+  <text x="420" y="135" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="64" font-weight="300" text-anchor="end">0</text>
+  <!-- Buttons -->
+  <circle cx="120" cy="230" r="38" fill="#A5A5A5"/>
+  <circle cx="210" cy="230" r="38" fill="#A5A5A5"/>
+  <circle cx="300" cy="230" r="38" fill="#A5A5A5"/>
+  <circle cx="390" cy="230" r="38" fill="#FF9F0A"/>
+  
+  <circle cx="120" cy="320" r="38" fill="#333333"/>
+  <circle cx="210" cy="320" r="38" fill="#333333"/>
+  <circle cx="300" cy="320" r="38" fill="#333333"/>
+  <circle cx="390" cy="320" r="38" fill="#FF9F0A"/>
+  
+  <rect x="82" y="372" width="168" height="76" rx="38" fill="#333333"/>
+  <circle cx="300" cy="410" r="38" fill="#333333"/>
+  <circle cx="390" cy="410" r="38" fill="#FF9F0A"/>
+</svg>
